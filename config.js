@@ -1,7 +1,7 @@
 module.exports = {
-    TOKEN: 'OTYwODgzNDM5MTEwODc3MTk0.Ykw6cA.4hloI7WbsAi7XvJijC5Jr8qHeoQ',
-    px: 'n',
-    listening: 'Đức dân chơi',
+    TOKEN: 'Token of Bot',
+    px: 'prefix',
+    listening: 'Type',
 
     opt: {
         DJ: {
