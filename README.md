@@ -1,16 +1,14 @@
 # Discord.js v13 Music Bot
-This project was created for you to create your own music bot, adapted to run on a virtual computer or on your own computer, **Github.com** is a privately published discord music bot project.<br><br>
-<h1>Music Bot Installation Guide</h1><hr>
-<h1><a href="https://youtu.be/i3SeVxjOMBI">VİDEO GUIDE</a></h1>
-<b>1 |</b> Download the project from <b>github.com</b> to your computer, transfer it from the zip file to a regular file and write your discord bot token in the section that says <b>TOKEN</b> in the <b>config.js</b> file.<br><br>
-<b>2 |</b> Download and install the latest version of Node.js on your computer, run as administrator after installation.<br><br>
-<b>3 |</b> Download the coding editor named Visual studio code.<br><br>
-<b>4 |</b> Open the folder where you transferred the music bot project with visual studio code.<br><br>
-<b>5 |</b> select terminal -> new terminal from the top left menu.<br><br>
-<b>6 |</b> The part that opens is your console. Everything is visible here, first of all, type <b>npm install</b> here and wait for the modules required for the music bot to be installed.<br><br>
-<b>7 |</b> Run the file named <b>start.bat</b> in the folder where the music bot codes are located. your music bot will be active.<br><br>
-<b>8 |</b> As long as you don't close the window we opened with start.bat, your discord bot will remain active, after all you can close the visual studio code editor.<br><hr><br>
+Giúp bạn tạo được bot nhạc cho riêng mình và có thể chạy bằng máy tính ảo hoặc máy tính của riêng bạn.<br><br>
+<h1>Hướng dẫn cài đặt Music Bot</h1><hr>
+<h2>Gồm các bước hướng dẫn dưới đây:</h2>
+<b>1 |</b> Download project từ <b>github.com</b> về máy tính của bạn, chuyển nó từ tệp ZIP sang tệp thông thường và thêm token discord bot của bạn vào phần có nội dung <b>TOKEN</b> trong tệp <b>config.js</b><br><br>
+<b>2 |</b> Tải xuống và cài đặt phiên bản Node.js mới nhất trên máy tính của bạn, chạy với tư cách quản trị viên sau khi cài đặt.<br><br>
+<b>3 |</b> Tải phần mềm để chạy bot "Visual Studio Code", mở phần mềm<br><br>
+<b>4 |</b> Mở thư mục mà bạn đã giải nén file ZIP vừa tải vào trong phần mềm VS Code<br><br>
+<b>5 |</b> Chọn terminal -> new terminal ở trên cùng bên trái menu<br><br>
+<b>6 |</b> Phần mở ra là bảng điều khiển của bạn. Mọi thứ đều có thể nhìn thấy ở đây, trước hết, hãy nhập npm install tại đây và đợi các mô-đun cần thiết cho bot âm nhạc được cài đặt.<br><br>
+<b>7 |</b> Chạy tệp có tên <b>start.bat</b>  trong thư mục chứa mã bot âm nhạc. bot âm nhạc của bạn sẽ hoạt động.<br><br>
+<b>8 |</b>Miễn là bạn không đóng cửa sổ mà chúng tôi đã mở bằng start.bat, bot bất hòa của bạn sẽ vẫn hoạt động, sau tất cả, bạn có thể đóng trình chỉnh sửa mã studio trực quan.<br><hr><br>
 <h2>Good Luck to You with the Music Bot.</h2>
 <br>
-Umut Bayraktar Youtube: <a href="https://www.youtube.com/UmutBayraktarYT">Subscribe</a><br>
-Code Share Discord: <a href="https://discord.gg/6XGqdgE">Join</a><br>
